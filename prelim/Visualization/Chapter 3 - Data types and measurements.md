@@ -1,4 +1,8 @@
-# Data Types and Measurement Scales — Study Notes
+# Data Types and Measurement Scales
+
+![Toshinou Kyouko](https://media1.tenor.com/m/Qb2FrVa8u30AAAAC/yuru-yuri-dog.gif)
+
+> Good luck reading this hellish sht
 
 ---
 

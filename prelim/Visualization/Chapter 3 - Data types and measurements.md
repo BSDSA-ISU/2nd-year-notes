@@ -4,8 +4,6 @@
 
 > Good luck reading this hellish sht
 
----
-
 ## 1. Data Types
 
 Data types describe **what kind of data you have**.
@@ -143,7 +141,7 @@ Why true zero matters:
 ## 3. Quick Comparison Table
 
 | Scale | Ordered | Equal Intervals | True Zero | Example |
-| ------ | -------- | -----------------| ---------- | -------- |
+| ------ | -------- | ----------------- | ---------- | -------- |
 | Nominal | ❌ | ❌ | ❌ | Eye color |
 | Ordinal | ✅ | ❌ | ❌ | Rank |
 | Interval | ✅ | ✅ | ❌ | Celsius |
@@ -153,7 +151,7 @@ Why true zero matters:
 
 ## 4. Easy Memory Trick
 
-```
+```txt
 
 Nominal  = Name only
 Ordinal  = Order
@@ -206,7 +204,7 @@ Try classifying these:
 4. Number of pets
 5. Satisfaction survey (1–10)
 
-*(Answers)*
+(Answers)
 
 ```txt
 
@@ -228,3 +226,6 @@ Try classifying these:
 > If numeric with equal spacing but no true zero → Interval
 
 ---
+
+
+[def]: #data-types-and-measurement-scales

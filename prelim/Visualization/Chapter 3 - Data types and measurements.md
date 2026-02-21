@@ -1,6 +1,6 @@
 # Data Types and Measurement Scales
 
-![Toshinou Kyouko](https://media1.tenor.com/m/Qb2FrVa8u30AAAAC/yuru-yuri-dog.gif)
+![Toshinou Kyouko](https://media1.tenor.com/m/d4dc0-akrg0AAAAC/ubolu.gif)
 
 > Good luck reading this hellish sht
 

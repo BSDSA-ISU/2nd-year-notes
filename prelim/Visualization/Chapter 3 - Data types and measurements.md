@@ -4,6 +4,28 @@
 
 > Good luck reading this hellish sht
 
+- [Data Types and Measurement Scales](#data-types-and-measurement-scales)
+  - [1. Data Types](#1-data-types)
+    - [A. Qualitative (Categorical Data)](#a-qualitative-categorical-data)
+      - [1. Nominal](#1-nominal)
+      - [2. Ordinal](#2-ordinal)
+    - [B. Quantitative (Numerical Data)](#b-quantitative-numerical-data)
+      - [1. Discrete](#1-discrete)
+      - [2. Continuous](#2-continuous)
+  - [2. Measurement Scales](#2-measurement-scales)
+    - [1. Nominal Scale](#1-nominal-scale)
+    - [2. Ordinal Scale](#2-ordinal-scale)
+    - [3. Interval Scale](#3-interval-scale)
+    - [4. Ratio Scale](#4-ratio-scale)
+  - [3. Quick Comparison Table](#3-quick-comparison-table)
+  - [4. Easy Memory Trick](#4-easy-memory-trick)
+  - [5. Practice Examples](#5-practice-examples)
+  - [6. Fun eample](#6-fun-eample)
+    - [Column Guide](#column-guide)
+  - [7. Quick Self-Test](#7-quick-self-test)
+  - [heal your soul before leaving](#heal-your-soul-before-leaving)
+  - [and of course. peace](#and-of-course-peace)
+
 ## 1. Data Types
 
 Data types describe **what kind of data you have**.
@@ -227,5 +249,8 @@ Try classifying these:
 
 ---
 
+## heal your soul before leaving
 
-[def]: #data-types-and-measurement-scales
+- [Ode to joy](https://www.youtube.com/watch?v=Wu4XbhSK2gM)
+
+## and of course. peace

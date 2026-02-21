@@ -2,7 +2,31 @@
 
 ![Remi](https://media1.tenor.com/m/iR809DVWk5kAAAAC/touhou-remilia-scarlet.gif)
 
-> ajdsodldshflsdjhfg
+> Oh My remi!!!!!! (@Aliee)
+
+- [Ethics in Data Visualization](#ethics-in-data-visualization)
+  - [Ethical Considerations in Data Visualization](#ethical-considerations-in-data-visualization)
+  - [Why ethics Matters?](#why-ethics-matters)
+    - [Data visualization is not neutral](#data-visualization-is-not-neutral)
+    - [Ignoring ethics may result in](#ignoring-ethics-may-result-in)
+  - [Ethical Dimensions of Visualization](#ethical-dimensions-of-visualization)
+  - [Ethical Principle in Data Visualization](#ethical-principle-in-data-visualization)
+    - [Accuracy and Honesty](#accuracy-and-honesty)
+    - [Clarity and Simplicity](#clarity-and-simplicity)
+    - [Fairness and Objectivity](#fairness-and-objectivity)
+    - [Privacy and Trust](#privacy-and-trust)
+    - [Inclusiveness and Accessibility](#inclusiveness-and-accessibility)
+  - [Common Pitfalls and Practices to Avoid](#common-pitfalls-and-practices-to-avoid)
+  - [Misleading Scaling](#misleading-scaling)
+    - [Cherry-Picking Data](#cherry-picking-data)
+    - [Inaccurate Visual Representations](#inaccurate-visual-representations)
+    - [Ambiguous Labels and Legends](#ambiguous-labels-and-legends)
+    - [Out-of-Context Data](#out-of-context-data)
+    - [Biased Color Usage](#biased-color-usage)
+    - [Failure to Update](#failure-to-update)
+    - [Lack of Accessibility](#lack-of-accessibility)
+    - [Failure to Explain Methodology](#failure-to-explain-methodology)
+  - [And thats it.. goodluck on exam Remi is here for us](#and-thats-it-goodluck-on-exam-remi-is-here-for-us)
 
 ## Ethical Considerations in Data Visualization
 
@@ -127,3 +151,7 @@ Ensure that visualizations are accessible to all users, including those with dis
 ### Failure to Explain Methodology
 
 Communicate the methods used to collect, analyze, and visualize data. Lack of transparency in methodology can raise doubts about the reliability of the information.
+
+## And thats it.. goodluck on exam Remi is here for us
+
+![remi yay](https://media1.tenor.com/m/6d3xjLlPHdQAAAAC/remilia-scarlet-banzai-cheer.gif)

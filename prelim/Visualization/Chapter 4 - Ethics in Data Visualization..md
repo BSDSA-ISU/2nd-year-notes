@@ -101,3 +101,29 @@ Selectively choosing data points to support a specific narrative is unethical. P
 Avoid using misleading visual elements, such as 3D charts, truncated axes, or inappropriate chart types. Choose visualizations that accurately represent the data without introducing unnecessary complexity.
 
 ![alt text](./src/Ethics%20in%20data%20visualization%202.png)
+
+---
+
+### Ambiguous Labels and Legends
+
+Clearly label all axes, data points, and legends to prevent confusion. Ambiguous or misleading labels can lead to misinterpretations.
+
+### Out-of-Context Data
+
+Present data within its relevant context. Failing to provide context can lead to misinterpretations and incorrect assumptions.
+
+### Biased Color Usage
+
+Carefully choose colors in a way that doesn’t imply false associations or biases. Be mindful of cultural connotations and ensure color choices are accessible to all viewers.
+
+### Failure to Update
+
+Regularly update visualizations to reflect the most recent and relevant data as we all know trends change rapidly so adding new data is the demand. Outdated information can lead to inaccurate conclusions.
+
+### Lack of Accessibility
+
+Ensure that visualizations are accessible to all users, including those with disabilities. Provide alternative text for images, use color contrasts, and choose readable fonts.
+
+### Failure to Explain Methodology
+
+Communicate the methods used to collect, analyze, and visualize data. Lack of transparency in methodology can raise doubts about the reliability of the information.

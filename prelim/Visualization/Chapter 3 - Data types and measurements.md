@@ -254,3 +254,5 @@ Try classifying these:
 - [Ode to joy](https://www.youtube.com/watch?v=Wu4XbhSK2gM)
 
 ## and of course. peace
+
+![Read Subarashi](https://media1.tenor.com/m/khc9ABIeYK4AAAAC/anime-girl.gif)

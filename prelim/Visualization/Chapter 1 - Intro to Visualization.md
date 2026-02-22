@@ -34,7 +34,7 @@ Gonna add a Table content since this ass is too long
       - [The Role of Color in Data Visualization](#the-role-of-color-in-data-visualization)
       - [Guidelines for Choosing Color Schemes](#guidelines-for-choosing-color-schemes)
       - [Common Color Pitfalls to Avoid](#common-color-pitfalls-to-avoid)
-  - [the end. fck this really. ajahahahaha](#the-end-fck-this-really-ajahahahaha)
+  - [the end. fck this shit really. ajahahahaha](#the-end-fck-this-shit-really-ajahahahaha)
   - [Yah. goodnight and have a fun sleep I guess](#yah-goodnight-and-have-a-fun-sleep-i-guess)
 
 ## What Is Data Visualization?
@@ -194,9 +194,9 @@ However, improper use of color can just as easily detract from the data, leading
 - **Ignoring Cultural Contexts**: Colors have different meanings in different cultures. Ensure your color choices do not convey unintended messages to a global audience.
 - **Lack of Consistency**: Using colors inconsistently across multiple visualizations can confuse the audience. Maintain the same color schemes across related charts for continuity and easier comparison.
 
-## the end. fck this really. ajahahahaha
+## the end. fck this shit really. ajahahahaha
 
-- I'm the only one who made "all" repositories on this github organization. so gg I guess
+- I'm the only one who made "every" repositories on this organization, oh my god!. so gg I guess
 
 ## Yah. goodnight and have a fun sleep I guess
 

@@ -161,7 +161,7 @@
 
 - Image for god sake
 
-![alt text](./Visualization/src/InformationERD.png)
+![alt text](./src/InformationERD.png)
 
 ---
 

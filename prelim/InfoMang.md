@@ -35,6 +35,9 @@
     - [Solutions / Best Practices](#solutions--best-practices)
     - [ER Diagram vs Relational Schema](#er-diagram-vs-relational-schema)
     - [Quick Review Summary](#quick-review-summary)
+  - [Credits](#credits)
+    - [AlieeLinux(Bazar, Cyrus troy C)](#alieelinuxbazar-cyrus-troy-c)
+    - [Peace out](#peace-out)
 
 ## Part 1
 
@@ -243,3 +246,15 @@
 - Cardinality = Quantity rules
 
 👉 If you understand those five, you understand ER modeling.
+
+## Credits
+
+### AlieeLinux(Bazar, Cyrus troy C)
+
+- who made this entire reviewer
+
+---
+
+### Peace out
+
+![Flandre 5](https://media1.tenor.com/m/eaM8Gava8pEAAAAC/flandre-flandre-scarlet.gif)

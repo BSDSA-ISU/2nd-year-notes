@@ -18,7 +18,7 @@
     - [Database system Management](#database-system-management)
       - [advantages of database systems](#advantages-of-database-systems)
       - [Risks](#risks)
-    - [ER Diagram Overview](#er-diagram-overview)
+  - [ER Diagram Overview](#er-diagram-overview)
     - [Purpose of ER Diagrams](#purpose-of-er-diagrams)
     - [Core Components](#core-components)
       - [Entities](#entities)
@@ -113,7 +113,7 @@
 
 ---
 
-### ER Diagram Overview
+## ER Diagram Overview
 
 - ER Diagram = Visual representation of database structure
 - Entity = Object or concept with data (e.g., Student, Product)

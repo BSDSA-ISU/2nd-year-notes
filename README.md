@@ -82,3 +82,5 @@ If it helps you too, cool. If not, skill issue.
 > **Conclusion:**  
 > This README is longer than some of my study sessions.  
 > That says a lot about both this file and my discipline.
+
+![kyouko](https://media1.tenor.com/m/2eFcSj58UhwAAAAC/head-bang-frustrated.gif)

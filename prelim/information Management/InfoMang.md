@@ -37,7 +37,7 @@
     - [Quick Review Summary](#quick-review-summary)
   - [Credits](#credits)
     - [AlieeLinux(Bazar, Cyrus troy C)](#alieelinuxbazar-cyrus-troy-c)
-    - [Peace out](#peace-out)
+  - [Peace out](#peace-out)
 
 ## Part 1
 
@@ -255,6 +255,6 @@
 
 ---
 
-### Peace out
+## Peace out
 
 ![Flandre 5](https://media1.tenor.com/m/eaM8Gava8pEAAAAC/flandre-flandre-scarlet.gif)

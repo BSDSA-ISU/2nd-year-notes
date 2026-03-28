@@ -17,7 +17,7 @@ In plain terms:
 
 ---
 
-# 🧾 Core DDL Commands
+## 🧾 Core DDL Commands
 
 ## 🏗️ 1. CREATE
 

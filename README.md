@@ -79,6 +79,17 @@ If it helps you too, cool. If not, skill issue.
 
 ---
 
+## :book: the contents
+
+- [Prelim](./prelim/)
+  - [Info man](./prelim/information%20Management)
+  - [Visualization](./prelim/Visualization/)
+- [Midterm](./Midterms/)
+  - [info man](./Midterms/Visualization/)
+  - [Visualization](./Midterms/Visualization/)
+
+---
+
 > **Conclusion:**  
 > This README is longer than some of my study sessions.  
 > That says a lot about both this file and my discipline.

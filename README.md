@@ -87,6 +87,7 @@ If it helps you too, cool. If not, skill issue.
 - [Midterm](./Midterms/)
   - [info man](./Midterms/Visualization/)
   - [Visualization](./Midterms/Visualization/)
+  - [Ai](./Midterms/AI/)
 
 ---
 

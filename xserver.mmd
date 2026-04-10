@@ -1,0 +1,28 @@
+graph TD
+    %% Nodes
+    subgraph Clients
+        XC1[X Client]
+        XC2[X Client]
+        XC3[X Client]
+    end
+
+    XS[X server]
+    Comp[Compositor]
+
+    subgraph Kernel
+        K_Devs[KMS & evdev]
+    end
+
+    %% Communication Flows
+    K_Devs -->|1. Input Event| XS
+    
+    XS -->|2. Event Notification| XC1
+    XC1 -->|3. Rendering Request| XS
+    
+    XS <-->|Events/Requests| XC2
+    XS <-->|Events/Requests| XC3
+
+    XS -->|4. Window Pixmaps| Comp
+    Comp -->|5. Composed Frame| XS
+    
+    XS -->|6. Framebuffer Update| K_Devs

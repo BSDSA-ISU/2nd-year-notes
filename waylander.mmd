@@ -1,0 +1,35 @@
+graph TD
+
+    subgraph Clients
+        WC1["Wayland Client (App)"]
+        WC2["Wayland Client (App)"]
+    end
+
+    WComp["Wayland Compositor"]
+
+    subgraph Kernel
+        EVDEV["evdev (Input Events)"]
+        KMS["KMS (Display Control)"]
+    end
+
+    Mesa["Mesa / Vulkan / GPU Drivers"]
+
+    %% INPUT FLOW
+    EVDEV -->|input events| WComp
+
+    %% INPUT DELIVERY TO CLIENTS
+    WComp -->|keyboard / pointer events| WC1
+    WComp -->|keyboard / pointer events| WC2
+
+    %% RENDERING FLOW
+    WC1 -->|render via GPU APIs| Mesa
+    WC2 -->|render via GPU APIs| Mesa
+    Mesa -->|DMA-BUF buffers| WComp
+
+    %% DISPLAY OUTPUT
+    WComp -->|composite / scanout| KMS
+    KMS --> Display["Monitor / Display Hardware"]
+
+    %% OPTIONAL INDIRECT CLIENT COMMUNICATION
+    WC1 -. clipboard / drag-drop .-> WComp
+    WC2 -. clipboard / drag-drop .-> WComp

@@ -30,6 +30,7 @@
       - [Step 7: Convergence](#step-7-convergence)
     - [Example Problem](#example-problem)
     - [Example code python](#example-code-python)
+  - [Contributors aka Emotionally damaged persons lol](#contributors-aka-emotionally-damaged-persons-lol)
 
 ---
 
@@ -195,3 +196,8 @@ termination condition is not satisfied.
 In this example, we create a population of individuals, each representing a value of x. The fitness function evaluates how close x²×2 is to zero (minimization).
 
 We use selection, crossover (blending two individuals), and mutation (small Gaussian changes) to evolve the population over generations. The algorithm keeps track of the best solution found.
+
+## Contributors aka Emotionally damaged persons lol
+
+- [Ereasores (AlieeLinux)](https://github.com/AlieeLinux)
+  - i hate making this, so so so boorrring!!!

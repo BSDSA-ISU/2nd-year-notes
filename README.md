@@ -96,3 +96,5 @@ If it helps you too, cool. If not, skill issue.
 > That says a lot about both this file and my discipline.
 
 ![kyouko](https://media1.tenor.com/m/iQl0k5QsHf0AAAAC/koishi-komeiji-koishi.gif)
+
+> Love from Koishi

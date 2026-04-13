@@ -3,6 +3,8 @@
 Welcome to my reviewer repository — the digital equivalent of a sleep-deprived brain dump before exams.  
 You’re here. I’m here. None of us know why. But congratulations anyway.
 
+[Goto Notes](#book-the-contents)
+
 ---
 
 ## 📚 What even is this repo?

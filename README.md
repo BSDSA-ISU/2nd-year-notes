@@ -3,7 +3,40 @@
 Welcome to my reviewer repository — the digital equivalent of a sleep-deprived brain dump before exams.  
 You’re here. I’m here. None of us know why. But congratulations anyway.
 
-[Goto Notes](#book-the-contents)
+---
+
+## :book: the contents
+
+- [Prelim](./prelim/)
+  - [Info man](./prelim/information%20Management)
+    - [a](./prelim/information%20Management/InfoMang.md)
+
+  - [Visualization](./prelim/Visualization/)
+    - [Introduction to Visualization](./prelim/Visualization/Chapter%201%20-%20Intro%20to%20Visualization.md)
+    - [Data types and measurements](./prelim/Visualization/Chapter%203%20-%20Data%20types%20and%20measurements.md)
+    - [Ethics in Data Visualion](./prelim/Visualization/Chapter%204%20-%20Ethics%20in%20Data%20Visualization..md)
+
+- [Midterm](./Midterms/)
+  - [info man](./Midterms/Visualization/)
+    - [DDL](./Midterms/Info%20management/DDL.md)
+    - [Introduction to sql](./Midterms/Info%20management/Intro%20to%20SQL.md)
+    - [Data Normalization](./Midterms/Info%20management/Data%20Normalization.md)
+
+  - [Visualization](./Midterms/Visualization/)
+    - [Univariate data](./Midterms/Visualization/Univariate%20data.md)
+    - [Bivirate and IDK](./Midterms/Visualization/Bivariate%20and%20TS%20data.md)
+
+  - [Ai](./Midterms/AI/)
+    - [Knowledge abd representation](./Midterms/AI//Knowledge%20and%20representation.md)
+    - [Logic in Ai](./Midterms/AI/Logic%20in%20ai.md)
+    - [Ontoligies and Bayesian](./Midterms/AI/Ontoligies%20and%20bayesian.md)
+
+- [Finals](./Finals/)
+  - [Ai](./Finals/Ai/)
+    - [Revolutionary Algorithm](./Finals/Ai/Revolutionary%20algorithm.md)
+
+  - [Infoman](./Finals/InfoMan/)
+    - [DML+](./Finals/InfoMan/DML.md)
 
 ---
 
@@ -78,23 +111,6 @@ you took a wrong turn somewhere.
 
 This repo exists purely for survival, not aesthetics.  
 If it helps you too, cool. If not, skill issue.
-
----
-
-## :book: the contents
-
-- [Prelim](./prelim/)
-  - [Info man](./prelim/information%20Management)
-  - [Visualization](./prelim/Visualization/)
-- [Midterm](./Midterms/)
-  - [info man](./Midterms/Visualization/)
-  - [Visualization](./Midterms/Visualization/)
-  - [Ai](./Midterms/AI/)
-- [Finals](./Finals/)
-  - [Ai](./Finals/Ai/)
-  - [Infoman](./Finals/InfoMan/)
-
----
 
 > **Conclusion:**  
 > This README is longer than some of my study sessions.  

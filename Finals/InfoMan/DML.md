@@ -1,6 +1,6 @@
 # 📖 Data manipulation Language
 
-> iran did nothing wrong
+> "I love Touhou" - By a BSDSA Student
 
 ![toe hoe yuri](https://media1.tenor.com/m/LIL19xdK9XEAAAAC/hop-on-gensou-skydrift-gensou-skydrift.gif)
 
@@ -36,8 +36,13 @@ VALUES (4, "Koishi Komeiji", "Satori Fumo", "Fumo", 102.4, 1, "2026-04-01");
 
 -- Multiple
 INSERT INTO Sales(sales_id, customer_name, product, category, price, quantity, sales_date)
-VALUES (4, "Koishi Komeiji", "Satori Fumo", "Fumo", 102.4, 1, "2026-04-01"), (6, "Satori Komeiji", "Koishi Fumo", "Fumo", 102.4, 1, "2026-04-02");
+VALUES (5, "Koishi Komeiji", "Satori Fumo", "Fumo", 102.4, 1, "2026-04-01"), (6, "Satori Komeiji", "Koishi Fumo", "Fumo", 102.4, 1, "2026-04-02");
 ```
+
+| sales_id | customer_name | product | category | price | quantity | sales_date |
+| - | - | - | - | - | - | - |
+| 4 | Koishi Komeiji | Satori Fumo | Fumo | 102.4 | 1 | 2026-04-01 |
+| 5 | Satori Komeiji | Koishi Fumo | Fumo | 102.4 | 1 | 2026-04-01 |
 
 > with this syntax, only one row is inserted
 
